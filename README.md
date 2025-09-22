@@ -23,26 +23,39 @@
 
 ## 🚀 Recent Projects  
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 🎵 [Svara – Music Player](https://github.com/Swapnanilb/Svara)  
 A modern **Electron-based music player** with **FastAPI backend**, playlist management, theme support, and offline playback.  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)    ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
+</td>
+<td valign="top" width="50%">
 
 ### 🕹️ [Guess-Em-All](https://github.com/Swapnanilb/Guess-Em-All)  
 A **fun guessing game** where players compete to guess the correct answers using hints.  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)    ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 ### 📂 [Projex – Project Management System](https://github.com/Swapnanilb/Projex)  
 A **collaborative project management tool** with task tracking, deadlines, and progress monitoring. Built using **Electron, React, and SQLite**.  
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)    ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)    ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+</td>
+<td valign="top" width="50%">
+<!-- Empty cell for balance -->
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 About Me
-- 🔭 Working on projects like **Svara (Music Player)**, **Guess-em-all** and **Projex**  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/swapnanil02)  
-
+## 👤 About Me
+- 🔭 Currently building **Svara**, **Guess-Em-All**, and **Projex**  
+- 📫 Reach me on: [LinkedIn](https://linkedin.com/in/swapnanil02)  
