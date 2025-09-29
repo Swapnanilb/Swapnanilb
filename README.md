@@ -3,6 +3,7 @@
 🎓 MCA Graduate  
 💻 Passionate about coding, web development & building projects  
 🎮 Gamer | 🎶 Music Lover | 🌐 Tech Explorer  
+[LinkedIn](https://linkedin.com/in/swapnanil02) | [Portfolio](https://swapnanilb.github.io/portfolio)
 
 ---
 
